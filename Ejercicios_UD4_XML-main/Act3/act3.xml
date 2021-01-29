@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<act3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="act3.xsd">
+
+<!DOCTYPE Concesionario
+[
+<!ELEMENT Concesionario (Coche*)>
+<!ELEMENT Coche (Marca, potencia, plazas, npuertas)>
+<!ELEMENT Marca (modelo, matricula)>
+<!ELEMENT modelo (#PCDATA)>
+<!ELEMENT matricula (#PCDATA)>
+<!ELEMENT potencia (#PCDATA)>
+<!ELEMENT plazas (#PCDATA)>
+<!ELEMENT npuertas (#PCDATA)>
+]>
+
+<Concesionario>
+    <Coche>
+        <Marca>
+            <modelo>BYD E6</modelo>
+            <matricula>3421MFS</matricula>
+        </Marca>
+        <potencia>122</potencia>
+        <plazas>5</plazas>
+        <npuertas>4</npuertas>
+    </Coche>
+    <Coche>
+        <Marca>
+            <modelo>Dodge Challenger 1970</modelo>
+            <matricula>2413GNC</matricula>
+        </Marca>
+        <potencia>200</potencia>
+        <plazas>5</plazas>
+        <npuertas>2</npuertas>
+    </Coche>
+    <Coche>
+        <Marca>
+            <modelo>Aventador S</modelo>
+            <matricula>1242MFH</matricula>
+        </Marca>
+        <potencia>150</potencia>
+        <plazas>2</plazas>
+        <npuertas>2</npuertas>
+    </Coche>
+    <Coche>
+        <Marca>
+            <modelo>Hummer Suv</modelo>
+            <matricula>2354LEM</matricula>
+        </Marca>
+        <potencia>100</potencia>
+        <plazas>5</plazas>
+        <npuertas>4</npuertas>
+    </Coche>
+</Concesionario>

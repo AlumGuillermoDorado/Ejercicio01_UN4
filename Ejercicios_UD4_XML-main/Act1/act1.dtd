@@ -1,0 +1,7 @@
+<!ELEMENT Biblioteca (libro*)>
+<!ELEMENT libro (autor, titulo, editorial, fPublicacion, ISBN)>	<!ELEMENT autor (apellido, apellido, nombre)>	<!ELEMENT apellido (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT editorial (#PCDATA)>
+<!ELEMENT fPublicacion (#PCDATA)>
+<!ELEMENT ISBN (#PCDATA)>
