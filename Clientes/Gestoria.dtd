@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!ELEMENT Gestoria (Clientes*)>
+<!ELEMENT Clientes (DatosSede, Datoscliente)>
+<!ELEMENT DatosSede (direccionSede,codigoSede,empleadoSolicitud,fecha,descripcion)>
+<!ELEMENT direccionSede (#PCDATA)>
+<!ELEMENT codigoSede (#PCDATA)>
+<!ELEMENT empleadoSolicitud (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT  Datoscliente (codigoCliente,numViviendas,coste,resumen,plazoAlta)>
+<!ELEMENT codigoCliente (#PCDATA)>
+<!ELEMENT numViviendas (#PCDATA)>
+<!ELEMENT coste (#PCDATA)>
+<!ELEMENT resumen (#PCDATA)>
+<!ELEMENT plazoAlta (#PCDATA)>

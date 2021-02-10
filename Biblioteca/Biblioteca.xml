@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE Biblioteca SYSTEM "Biblioteca.dtd">
+	
+	<Biblioteca>
+	    <libro>
+	        <autor>
+	            <apellido>Huffam</apellido>
+	            <apellido>Dickens</apellido>
+	            <nombre>Charles</nombre>
+	        </autor>
+	        <titulo>Oliver Twist</titulo>
+	        <editorial>Libreria Solon</editorial>
+	        <fPublicacion>2004</fPublicacion>
+	        <ISBN>9788496246317</ISBN>
+	    </libro>
+	    <libro>
+	        <autor>
+	            <apellido>Fingal</apellido>
+	            <apellido>Wilde</apellido>
+	            <nombre>Oscar</nombre>
+	        </autor>
+	        <titulo>El cuadro de Dorian Gray</titulo>
+	        <editorial>Lippincotts</editorial>
+	        <fPublicacion>1890</fPublicacion>
+	        <ISBN>9788496244247</ISBN>
+	    </libro>
+	    <libro>
+	        <autor>
+	            <apellido>García</apellido>
+	            <apellido>Márquez</apellido>
+	            <nombre>Gabriel</nombre>
+	        </autor>
+	        <titulo>La hojarasca</titulo>
+	        <editorial>Editorial real</editorial>
+	        <fPublicacion>1955</fPublicacion>
+	        <ISBN>9788496246317</ISBN>
+	    </libro>
+	    <libro>
+	        <autor>
+	            <apellido>Luis</apellido>
+	            <apellido>Borges</apellido>
+	            <nombre>Jorge</nombre>
+	        </autor>
+	        <titulo>La biblioteca de babel</titulo>
+	        <editorial>Editorial real</editorial>
+	        <fPublicacion>1941</fPublicacion>
+	        <ISBN>9782534246317</ISBN>
+	    </libro>
+	    <libro>
+	        <autor>
+	            <apellido>Allan</apellido>
+	            <apellido>Edgar</apellido>
+	            <nombre>Poe</nombre>
+	        </autor>
+	        <titulo>Annabel Lee</titulo>
+	        <editorial>Daily Tribune</editorial>
+	        <fPublicacion>1849</fPublicacion>
+	        <ISBN>9788496354317</ISBN>
+	    </libro>
+	    <libro>
+	        <autor>
+	            <apellido>Adeline</apellido>
+	            <apellido>Stephen</apellido>
+	            <nombre>Virginia</nombre>
+	        </autor>
+	        <titulo>La señora Dollaway</titulo>
+	        <editorial>Hogarth Press</editorial>
+	        <fPublicacion>1925</fPublicacion>
+	        <ISBN>97884965345327</ISBN>
+	    </libro>
+	    <libro>
+	        <autor>
+	            <apellido>García</apellido>
+	            <apellido>Lorca</apellido>
+	            <nombre>Federico</nombre>
+	        </autor>
+	        <titulo>Romancero gitano</titulo>
+	        <editorial>Juan Régulo Pérez</editorial>
+	        <fPublicacion>1928</fPublicacion>
+	        <ISBN>23442346317</ISBN>
+	    </libro>
+	    <libro>
+	        <autor>
+	            <apellido>Kafka</apellido>
+	            <apellido></apellido>
+	            <nombre>Franz</nombre>
+	        </autor>
+	        <titulo>La metamorfosis</titulo>
+	        <editorial>Die Weiben Blatter</editorial>
+	        <fPublicacion>1912</fPublicacion>
+	        <ISBN>9782423246317</ISBN>
+	    </libro>
+	    <libro>
+	        <autor>
+	            <apellido>Pessoa</apellido>
+	            <apellido></apellido>
+	            <nombre>Fernando</nombre>
+	        </autor>
+	        <titulo>Libro del desasosiego</titulo>
+	        <editorial>Portugues editor</editorial>
+	        <fPublicacion>1982</fPublicacion>
+	        <ISBN>21323133434324</ISBN>
+	    </libro>
+	    <libro>
+	        <autor>
+	            <apellido>Cervantes</apellido>
+	            <apellido>Saavedra</apellido>
+	            <nombre>Miguel</nombre>
+	        </autor>
+	        <titulo>Don Quijote de la Mancha</titulo>
+	        <editorial>Francisco de Robles</editorial>
+	        <fPublicacion>1605</fPublicacion>
+	        <ISBN>23534254522345</ISBN>
+	    </libro>
+	</Biblioteca>
